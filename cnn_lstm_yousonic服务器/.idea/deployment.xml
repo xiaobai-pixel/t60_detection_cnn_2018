@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ljd@4y35238d06.51vip.biz:22103">
+    <serverData>
+      <paths name="chenql@121.229.22.174:33903">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="chenql@121.229.22.174:33903 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="cql@192.168.3.28:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="cql_chinatele">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/meta/cql/code/cnnlstm" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="cql_yousonic">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data2/cql/code/cnnLstmPredictT60" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ljd">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data2/ljd" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ljd@4y35238d06.51vip.biz:22103">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data2/cql/code/cnnLstmPredictT60" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ljd@4y35238d06.51vip.biz:22103 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data2/ljd_备用" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="qlchen@49.72.51.169:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/meta/cql/code/cnnlstm" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="qlchen@49.72.51.169:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
